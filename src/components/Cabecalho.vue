@@ -13,7 +13,7 @@
     display: flex;
     background-color: black;
     background-image: url('../assets/imagens/fotocapa-min.PNG');
-    background-size: 300px;
+    background-size: 200px;
     background-repeat: no-repeat;
     background-position: center;
     height: 18em;

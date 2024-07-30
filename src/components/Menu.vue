@@ -24,24 +24,30 @@
 
 <style scoped>
 .menu{
-    display: flex;
-    width: 91.81em;
-    height: 70px;
-    margin-top: 10px;
+   display: flex;
+    width: 1335px;
+    height: 80px;
+    margin-top: 5px;
     margin-bottom: 400px;
-    margin-left: -1370px;
-    padding: 2px 15px;
+    margin-left: -1335px;
+    
+    
 }
+
 .menu nav{
-    width: 100em;
+    width: 100%;
     background-image: url('../assets/imagens/diamente3.PNG');
     background-size: 90px;
     background-repeat: no-repeat;
     background-position: 10px;
-    margin-left: 25px;
+    margin-left: 0;
     padding: 8px 120px;
-    
+   }
+nav a{
+    margin-left: 10px;
+    margin-right: -1em;
 }
+
 form{
     margin-right: -100px;
 }
