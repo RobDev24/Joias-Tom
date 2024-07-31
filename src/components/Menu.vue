@@ -8,7 +8,8 @@
    <router-link to="/Colecoes">Coleções</router-link>
    <router-link to="/Store">Store</router-link>
    <router-link to="/Sobre">Sobre</router-link>
-   <router-link to="/Contato">Contato</router-link>
+   <router-link to="/C">Contato</router-link>
+   
 
    <form class="d-flex" role="search">
         <input class="form-control me-4" type="pesquisar" placeholder="Pesquisar" aria-label="Search">
@@ -25,11 +26,11 @@
 <style scoped>
 .menu{
    display: flex;
-    width: 1338px;
+    width: 1346px;
     height: 80px;
-    margin-top: 3px;
-    margin-bottom: 400px;
-    margin-left: -60px;
+    margin-top: -48px;
+    margin-bottom: 440px;
+    margin-left: -1345px;
     
     
 }

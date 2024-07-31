@@ -10,10 +10,11 @@
 <style scoped>
 footer{
     display: block;
-    border: 2px solid green;
-    width: 1349px;
-    height: 150px;
-    margin-left: -1344px;
-    margin-top:460px;
+    width: 1340px;
+    height: 130px;
+    margin-left: -60px;
+    margin-top: -40px;
+    margin-bottom: -40px;
+    
    }
 </style>

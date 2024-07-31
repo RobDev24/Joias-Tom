@@ -36,11 +36,11 @@ const router = createRouter({
   component: () => import('../views/Sobre.vue')
 },
 {
-  path: "/Contato",
-  name: "Contato",
- 
-  component: () => import('../views/Contato.vue')
-},
+  path: "/C",
+  name: "ContOrca",
+
+  component: () => import('../views/ContOrca.vue')
+}
      
   ]
 })

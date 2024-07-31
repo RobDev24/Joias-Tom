@@ -1,16 +1,17 @@
 <template>
-    
-       <h1>Store</h1> 
+    <div class="test"><h1>Store</h1> 
+       <input type="text"></div>
+       
     
 </template>
 
 
 <style scoped>
 
-
-h1{
-    color: yellow;
-    margin: auto;
+.test{
+    border: 2px solid red;
 }
+
+
 
 </style>
