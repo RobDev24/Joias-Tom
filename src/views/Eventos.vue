@@ -8,8 +8,8 @@
 <style>
 
 h1{
-    color: yellow;
-    margin: auto;
+    color: black;
+    margin-top: 100px;
 }
 
 </style>

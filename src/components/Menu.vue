@@ -31,9 +31,20 @@
     margin-top: -48px;
     margin-bottom: 440px;
     margin-left: -1345px;
-    
-    
+      
 }
+
+a, .green{
+    color: rgb(7, 234, 234);
+}
+.form-control{
+    color: aliceblue;
+}
+.btn-outline-success{
+    color: rgb(7, 234, 234);
+    border-color: rgb(7, 234, 234);
+}
+
 
 .menu nav{
     width: 100%;
@@ -43,6 +54,7 @@
     background-position: 10px;
     margin-left: 0;
     padding: 8px 120px;
+   
    }
 nav a{
     margin-left: 10px;

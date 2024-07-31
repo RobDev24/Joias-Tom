@@ -1,16 +1,18 @@
 <template>
-    <div class="test"><h1>Store</h1> 
-       <input type="text"></div>
+    <div class="store">
+        <h1>Store</h1>
+    </div>
        
     
 </template>
 
 
 <style scoped>
-
-.test{
-    border: 2px solid red;
+h1{
+    margin-top: 100px;
+    color: black;
 }
+
 
 
 

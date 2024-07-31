@@ -1,7 +1,6 @@
 <template>
-
-
-        <div class="galeria">
+        <div class="imagen"></div>
+         <div class="galeria">
         <span style="--i:1">><img src="../assets/imagens/colarcritalr1.png"></span>
         <span style="--i:2"><img src="../assets/imagens/brincocolarping.PNG"></span>
         <span style="--i:3"><img src="../assets/imagens/colabrink1.png"></span>
@@ -30,8 +29,9 @@
         animation-play-state: paused;
        }
         .galeria{
+            
             position:relative;
-            top: 130px;
+            top: 90px;
             left: 800px;
             width: 100px;
             height: 100px;
@@ -42,9 +42,11 @@
                 100%{transform:perspective(1000px) rotateY(360deg)}}
                 .galeria span{position:absolute;width:100%;height:100%;top:0;left:0;transform-origin:center;transform-style:preserve-3d;transform:rotateY(calc(var(--i) * 45deg)) translateZ(350px);}
                 .galeria nav img{position:absolute;top:0;left:0;width:100%;height:100%; 
-
+                
                 }
 
-
-
+.galeria span img{
+    transform-style: preserve-3d; 
+    -webkit-box-reflect: below 1px linear-gradient(transparent, rgba(0,0,0,0.3));
+}
 </style>
