@@ -25,11 +25,11 @@
 <style scoped>
 .menu{
    display: flex;
-    width: 1335px;
+    width: 1338px;
     height: 80px;
-    margin-top: 5px;
+    margin-top: 3px;
     margin-bottom: 400px;
-    margin-left: -1335px;
+    margin-left: -60px;
     
     
 }

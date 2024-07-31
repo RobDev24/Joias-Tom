@@ -11,9 +11,9 @@
 footer{
     display: block;
     border: 2px solid green;
-    width: 1335px;
-    height: 200px;
-    margin-left: -60px;
-    margin-top: -70px;
+    width: 1349px;
+    height: 150px;
+    margin-left: -1344px;
+    margin-top:460px;
    }
 </style>
