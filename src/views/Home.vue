@@ -4,14 +4,14 @@
             
         </div>
          <div class="galeria">
-        <span style="--i:1">><img src="../assets/imagens/colarcritalr1.png"></span>
-        <span style="--i:2"><img src="../assets/imagens/brincocolarping.PNG"></span>
-        <span style="--i:3"><img src="../assets/imagens/colabrink1.png"></span>
-        <span style="--i:4"><img src="../assets/imagens/Tom1.jpg"></span>
-        <span style="--i:5"><img src="../assets/imagens/colarpinverde1.png"></span>
-        <span style="--i:6"><img src="../assets/imagens/colarping1.png"></span>
-        <span style="--i:7"><img src="../assets/imagens/colar3pingverde1.png"></span>
-        <span style="--i:8"><img src="../assets/imagens/correntinhacoracao1.png"></span>
+        <span style="--i:1">><img src="/src/assets/imagens/colarcritalr1.png"></span>
+        <span style="--i:2"><img src="/src/assets/imagens/brincocolarping.png"></span>
+        <span style="--i:3"><img src="/src/assets/imagens/colabrink1.png"></span>
+        <span style="--i:4"><img src="/src/assets/imagens/Tom1.jpg"></span>
+        <span style="--i:5"><img src="/src/assets/imagens/colarpinverde1.png"></span>
+        <span style="--i:6"><img src="/src/assets/imagens/colarping1.png"></span>
+        <span style="--i:7"><img src="/src/assets/imagens/colar3pingverde1.png"></span>
+        <span style="--i:8"><img src="/src/assets/imagens/correntinhacoracao1.png"></span>
               
     </div> 
     

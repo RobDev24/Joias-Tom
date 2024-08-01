@@ -1,1 +1,0 @@
-import{_ as o,c as s,o as t,p as c,a,b as _}from"./index-BeGeokK9.js";const d={},r=e=>(c("data-v-f19bd133"),e=e(),a(),e),n={class:"store"},p=r(()=>_("h1",null,"Store",-1)),f=[p];function i(e,h){return t(),s("div",n,f)}const u=o(d,[["render",i],["__scopeId","data-v-f19bd133"]]);export{u as default};
