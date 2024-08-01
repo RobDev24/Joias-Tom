@@ -1,5 +1,8 @@
 <template>
-        <div class="imagen"></div>
+    <div class="container">
+        <div class="imagem">
+            
+        </div>
          <div class="galeria">
         <span style="--i:1">><img src="../assets/imagens/colarcritalr1.png"></span>
         <span style="--i:2"><img src="../assets/imagens/brincocolarping.PNG"></span>
@@ -12,6 +15,7 @@
               
     </div> 
     
+</div>
 
 </template>
 
@@ -21,6 +25,21 @@
 </script>
 
 <style>
+    .container{
+        display: flex;
+    }
+
+    .imagem{
+        width: 400px;
+        height:380px;
+        margin-top: 50px;
+        margin-left: -130px;
+        background-image: url('../assets/imagens/diamente3.PNG');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+
+    }
        .galeria span img:hover{
         transform: translateY(3px) scale(1.5);
         cursor: pointer;
@@ -31,8 +50,8 @@
         .galeria{
             
             position:relative;
-            top: 90px;
-            left: 800px;
+            top: 80px;
+            left: 395px;
             width: 100px;
             height: 100px;
             transform-style:preserve-3d;
@@ -47,6 +66,6 @@
 
 .galeria span img{
     transform-style: preserve-3d; 
-    -webkit-box-reflect: below 1px linear-gradient(transparent, rgba(0,0,0,0.3));
+    -webkit-box-reflect: below 1px linear-gradient(transparent, rgba(0,0,0,0.5));
 }
 </style>

@@ -2,8 +2,9 @@
     <div class="menu">
       
   <nav class="navbar bg-dark border-bottom border-body" data-bs-theme="dark">
-  <a class="navbar-brand" href="#">Tom Joias</a>
+  <a class="navbar-brand" href="../views/Login.vue">Login</a>
    <router-link to="/">Home</router-link> 
+   
    <router-link to="/Eventos">Eventos</router-link>
    <router-link to="/Colecoes">Coleções</router-link>
    <router-link to="/Store">Store</router-link>
@@ -28,8 +29,8 @@
    display: flex;
     width: 1346px;
     height: 80px;
-    margin-top: -48px;
-    margin-bottom: 440px;
+    margin-top: 5px;
+    margin-bottom: 420px;
     margin-left: -1345px;
       
 }
