@@ -13,8 +13,7 @@
         <span style="--i:7"><img src="/src/assets/imagens/colar3pingverde1.png"></span>
         <span style="--i:8"><img src="/src/assets/imagens/correntinhacoracao1.png"></span>
               
-    </div> 
-    
+    </div>     
 </div>
 
 </template>
