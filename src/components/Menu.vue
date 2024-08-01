@@ -20,10 +20,6 @@
 </div>
 </template>
 
-<script setup>
-
-</script>
-
 <style scoped>
 .menu{
    display: flex;
@@ -47,24 +43,6 @@ a, .green{
 }
 
 
-.menu nav{
-    width: 100%;
-    background-image: url('../assets/imagens/diamente3.PNG');
-    background-size: 90px;
-    background-repeat: no-repeat;
-    background-position: 10px;
-    margin-left: 0;
-    padding: 8px 120px;
-   
-   }
-nav a{
-    margin-left: 10px;
-    margin-right: -1em;
-}
-
-form{
-    margin-right: -100px;
-}
-
+.menu{display:flex;width:1346px;height:80px;margin-top:5px;margin-bottom:420px;margin-left:-1345px}a,.green{color:#07eaea}.form-control{color:#f0f8ff}.btn-outline-success{color:#07eaea;border-color:#07eaea}.menu nav{width:100%;background-image:url(../assets/imagens/diamente3.PNG);background-size:90px;background-repeat:no-repeat;background-position:10px;margin-left:0;padding:8px 120px}nav a{margin-left:10px;margin-right:-1em}form{margin-right:-100px}
 
 </style>

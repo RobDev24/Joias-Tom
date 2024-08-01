@@ -29,66 +29,6 @@
 
 <style scoped>
 
-.formulario{
-    
-    background: rgb(182, 242, 231);
-    width: 500px;
-    height: 350px;
-    display: block;
-    margin-top: 100px;
-    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
-    margin-left: 300px;
-    align-items:center;
-    padding: 8px;
-    color: #0b0000;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
-}
-h3{
-    color: black;
-    text-align: center;
-}
+.formulario{background:#b6f2e7;width:500px;height:350px;display:block;margin-top:100px;box-shadow:rgba(17,17,26,0.1) 0 4px 16px,rgba(17,17,26,0.1) 0 8px 24px,rgba(17,17,26,0.1) 0 16px 56px;margin-left:300px;align-items:center;padding:8px;color:#0b0000;font-family:'Franklin Gothic Medium','Arial Narrow',Arial,sans-serif}h3{color:#000;text-align:center}.formulario form{display:flex;flex-direction:column}button{margin-top:15px;border:none;width:80px}input{display:block;margin-top:-10px}textarea{display:block;margin-top:-10px}button{display:grid;text-align:center;align-items:center;padding:5px;background-color:#03c0f0;cursor:pointer;transition:1s;font-family:'Franklin Gothic Medium','Arial Narrow',Arial,sans-serif}button:hover{background:#1f2628;color:#f3df0c;border-radius:10px;font-family:'Courier New',Courier,monospace}
 
-.formulario form{
-    display: flex;
-    flex-direction: column;
-    
-    
-
-}
-button{
-    margin-top: 15px;
-   border: none;
-   width: 80px;
-}
-input{
-    display: block;
-    margin-top: -10px;
-    
-}
-textarea{
-    display: block;
-    margin-top: -10px;
-}
-button{
-    display:grid;
-    text-align: center;
-    align-items: center;
-    padding: 5px;
-    background-color: #03c0f0;
-    cursor: pointer;
-    transition: 1s;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
-}
-button:hover{
-background: #1f2628;
-color:rgb(243, 223, 12);
-border-radius: 10px;
-font-family: 'Courier New', Courier, monospace;
-}
-
-   
-
-
-</style>
+   </style>

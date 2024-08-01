@@ -30,59 +30,6 @@
 
 
 <style scoped>
-.contato p{
 
-}
-footer{
-    display: block;
-    width: 1356px;
-    height: 150px;
-    margin-left: -70px;
-    margin-top: -40px;
-    
-    background: rgba(232, 223, 223, 0.267);
-    
-   }
-   .conteudos{
-   
-    display: flex;
-    width: 100%;
-    height: 120px;
-    margin-top: 0px;
-   }
-   .contato{
-    
-    margin-left: 15px;
-    width: 320px;
-    color: aliceblue;
-    text-align: center;
-   
-
-   }
-   .links{
-    
-    
-    width: 320px;
-    margin-left: 15px;
-    color: aliceblue;
-   }
-   .pagamentos{
-    
-    color: aliceblue;
-    width: 320px;
-    margin-left: 15px;
-   }
-   .direitos{
-    display: block;
-    
-    height: 30px;
-    width: 100%;
-    color: aliceblue;
-    text-align:justify;
-        
-   }
-   .direitos p{
-    
-    text-align: center;
-   }
+footer{display:block;width:1356px;height:150px;margin-left:-70px;margin-top:-40px;background:rgba(232,223,223,0.267)}.conteudos{display:flex;width:100%;height:120px;margin-top:0}.contato{margin-left:15px;width:320px;color:#f0f8ff;text-align:center}.links{width:320px;margin-left:15px;color:#f0f8ff}.pagamentos{color:#f0f8ff;width:320px;margin-left:15px}.direitos{display:block;height:30px;width:100%;color:#f0f8ff;text-align:justify}.direitos p{text-align:center}
 </style>
